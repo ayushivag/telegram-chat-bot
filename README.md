@@ -8,3 +8,20 @@ Gemini API Integration: Generates AI responses based on user input using Google 
 File Upload Analysis: Supports file uploads, including image and PDF analysis.
 Web Search: Allows users to search the web, summarizing the results with links.
 MongoDB Integration: Stores user information, chat history, and file metadata in MongoDB.
+
+Technologies
+Python 3.11+
+Telegram API
+Google Gemini API
+MongoDB
+TextBlob
+requests
+python-dotenv
+Pillow (PIL)
+Setup
+Prerequisites
+Python 3.11 or later.
+MongoDB setup (either local or hosted like MongoDB Atlas).
+Telegram Bot Token (you can obtain it by creating a bot through BotFather).
+Google Gemini API Key.
+SerpAPI Key for web search integration.
