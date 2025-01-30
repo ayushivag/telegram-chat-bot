@@ -1,0 +1,4 @@
+MONGO_URI=mongodb://your-mongo-uri
+GENAI_API_KEY=your-genai-api-key
+TELEGRAM_TOKEN=your-telegram-bot-token
+SERPAPI_API_KEY=your-serpapi-api-key
